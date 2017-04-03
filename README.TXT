@@ -1,7 +1,7 @@
 llgo
 ====
 
-llgo is a Go (http://golang.org) frontend for LLVM, written in Go.
+llgo is a  frontend application for LLVM, written in Go (http://golang.org).
 
 llgo is under active development. It compiles and passes most of the
 standard library test suite and a substantial portion of the gc test suite,
